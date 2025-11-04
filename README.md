@@ -13,7 +13,7 @@ Je cherche à mettre mes compétences en pratique à travers des projets open so
 ---
 
 ## 🚀 Projets phares
-- 🎓 **CampusConnect** — Plateforme de gestion et communication pour campus universitaire. [🔗 Voir le repo](https://github.com/TON_PSEUDO/CampusConnect-Public)
+- 🎓 **CampusConnect** — Plateforme de gestion et communication pour campus universitaire. [🔗 Voir le repo](https://github.com/ManuKiwa/CampusConnect-Public)
 - 🎮 **Attrape & Trie (Prototype 2D)** — Jeu interactif sous **Python & Pygame**, structuré en **MVC**.[🔗 Voir le repo](https://github.com/ManuKiwa/attrape-et-trie-Public)
 
 

@@ -1,14 +1,14 @@
 # 👋 Salut, moi c’est  Manu KIWA 
 
-🎓 **Étudiant en Ingénierie des Systèmes Informatiques**  
+🎓 **Étudiant en Ingénierie des Systèmes Informatiques | IA & Big Data**  
 💻 **Développeur Full Stack | Passionné par l’innovation technologique**
 
 ---
 
 ## 📌 À propos
 
-Passionné par les technologies innovantes, je développe des projets complets — du **back-end au front-end**, en passant par la **gestion réseau**.  
-Je cherche à mettre mes compétences en pratique à travers des projets open source et des collaborations.
+Passionné par les technologies innovantes, j’explore l’intégration de solutions d’**intelligence artificielle** et d’**analyse de données massives** dans mes projets, tout en concevant et développant des solutions complètes — du **back-end au front-end**.  
+Créatif et ouvert d’esprit, j’aime apprendre en continu et collaborer autour de projets ambitieux afin d’imaginer des solutions à la fois efficaces, robustes et innovantes.
 
 ---
 
@@ -28,15 +28,14 @@ Je cherche à mettre mes compétences en pratique à travers des projets open so
 - SQL Server, Oracle, MySQL
 
 **🌐 Développement Web :**  
-- Laravel, PHP natif, .NET Framework, Hibernate 
+- Laravel, PHP natif, .NET Framework, Hibernate, React.js
 
-**🔐 Réseaux & Systèmes :**  
-- Routage, OSPF, NAT/PAT, VLAN  
-- Cisco, GNS3
+**🔐 Réseaux & Systèmes :**   
+- Routage, Administration réseaux (Cisco Packet Tracer, GNS3)
+- VLAN, OSPF, NAT/PAT
 
-**🛠️ Outils :**  
-- MS Office, UML, Git, VMware
-
+**🛠️ Outils & Méthodologies :**  
+- MS Office, Power BI, Talend Open Source, UML, Git, VMware
 ---
 
 ## 📫 Me contacter

@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est  Manu KIWA 
 
-🎓 **Étudiant en Ingénierie des Systèmes Informatiques | IA & Big Data**  
+🎓 **Ingénierie IA & Big Data**  
 💻 **Développeur Full Stack | Passionné par l’innovation technologique**
 
 ---
@@ -22,10 +22,18 @@ Créatif et ouvert d’esprit, j’aime apprendre en continu et collaborer autou
 
 ## 💡 Compétences
 
+**🤖 Intelligence Artificielle & ML**
+
+- TensorFlow.js, Deep Learning, Machine Learning, Data Mining, MediaPipe
+
+**🎨 Développement 3D & Visualisation**
+
+- Three.js, WebGL
+
 **💻 Langages & Développement :**  
 - Python, Java, JavaScript, C#, VB.NET, PHP, Node.js
 - HTML / CSS  
-- SQL Server, Oracle, MySQL
+- MongoDB, Cassandra, SQL Server, Oracle, MySQL
 
 **🌐 Développement Web :**  
 - Laravel, PHP natif, .NET Framework, Hibernate, React.js
@@ -35,7 +43,7 @@ Créatif et ouvert d’esprit, j’aime apprendre en continu et collaborer autou
 - VLAN, OSPF, NAT/PAT
 
 **🛠️ Outils & Méthodologies :**  
-- MS Office, Power BI, Talend Open Source, UML, Git, VMware
+- Git, Power BI, Talend Open Source, UML, Git, VMware
 ---
 
 ## 📫 Me contacter
